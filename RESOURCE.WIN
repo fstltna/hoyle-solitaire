@@ -1,0 +1,25 @@
+[Windows]
+confirmDac      =FALSE
+title           =Hoyle Solitaire (HD)
+titleBar        =TRUE
+wwidth          =640
+wheight         =480
+pagelock        =FALSE
+borderpixels    =5
+synthtype       =basesynth
+asyncCheckFreq  =60
+scimink         =2048
+scimaxk         =4096
+showmem         =FALSE
+systemFont      =999
+colorCursor     =TRUE
+maxCursorSize   =1024
+
+resSfx=.
+resAud=.
+resMap=.
+patchDir=.
+
+dacSize=8192
+audioSize=65536
+minSubmits=6
